@@ -1,0 +1,3 @@
+ip:LazyJosiah.aternos.me
+port:41546
+name:lazy
